@@ -23,10 +23,11 @@ I'm Rahul Mavaliya, a dedicated app developer with a passion for crafting innova
 ## Screenshots
 
 <img src="https://github.com/RahulMavaliya/FoodApp/assets/99340043/c38f09a3-7317-4a1e-84c2-eaf73ecfe122" width="200">
-<img src="https://github.com/RahulMavaliya/FoodApp/assets/99340043/f3af2d7c-4d85-4b65-96e5-bfadc185dbd6" width="200">
+
 <img src="https://github.com/RahulMavaliya/FoodApp/assets/99340043/f41ac29f-f7a0-46a1-b718-ce35b111aa21" width="200">
 <img src="https://github.com/RahulMavaliya/FoodApp/assets/99340043/e7886d4f-96de-42cb-bfea-1fd155964c68" width="200">
 <img src="https://github.com/RahulMavaliya/FoodApp/assets/99340043/48a760e9-508f-4522-9549-161090af6020" width="200">
 <img src="https://github.com/RahulMavaliya/FoodApp/assets/99340043/31419fbd-cee6-41c3-80db-2e3acb257604" width="200">
 <img src="https://github.com/RahulMavaliya/FoodApp/assets/99340043/5bc6f298-b02d-4114-af78-340b74307d9d" width="200">
 <img src="https://github.com/RahulMavaliya/FoodApp/assets/99340043/871e87de-afdb-44df-8a92-325d28ec3e96" width="200">
+<img src="https://github.com/RahulMavaliya/FoodApp/assets/99340043/f3af2d7c-4d85-4b65-96e5-bfadc185dbd6" width="200">
