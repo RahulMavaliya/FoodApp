@@ -15,6 +15,7 @@ Welcome to our advanced food delivery app, crafted in Kotlin, integrating cuttin
 ## 🔗 Project References
 
 https://github.com/denzcoskun/ImageSlideshow
+
 https://firebase.google.com/
 
 ## 🚀 About Me
