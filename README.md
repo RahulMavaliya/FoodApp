@@ -14,9 +14,8 @@ Welcome to our advanced food delivery app, crafted in Kotlin, integrating cuttin
 
 ## 🔗 Project References
 
-[https://github.com/denzcoskun/ImageSlideshow
-https://firebase.google.com/](https://github.com/denzcoskun/ImageSlideshow
-https://firebase.google.com/)
+https://github.com/denzcoskun/ImageSlideshow
+https://firebase.google.com/
 
 ## 🚀 About Me
 I'm Rahul Mavaliya, a dedicated app developer with a passion for crafting innovative solutions. Proficient in Kotlin, I specialize in creating robust and user-friendly applications. Committed to staying at the forefront of technology, I strive to deliver seamless and engaging user experiences through my work.
