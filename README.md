@@ -1,7 +1,7 @@
 # 👋 Hi I'm Rahul (App Developer) 
 # My Food Delivery App
 
-Welcome to our advanced food delivery app, crafted in Kotlin, integrating cutting-edge technologies and design principles to provide users with a seamless and delightful culinary experience.
+Welcome to my advanced food delivery app, crafted in Kotlin, integrating cutting-edge technologies and design principles to provide users with a seamless and delightful culinary experience.
 
 ## Key Features
 
